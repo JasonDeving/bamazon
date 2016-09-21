@@ -1,6 +1,6 @@
 #Bamazon Node JS Clone
-
-First clone it. I will include the sql file and seed data;
+![Terminal](http://img.photobucket.com/albums/v251/aznj50/Screen%20Shot%202016-09-20%20at%2011.06.48%20PM.png)
+First clone it. <br> I will include the sql file and seed data;
 bamazon.sql // Connect to your database with your credentials
 
 ##Youtube Video
