@@ -11,7 +11,11 @@ var connection = mysql.createConnection({
 
 connection.query('SELECT * FROM Product', function(err, res) {
     if (err) throw err;
-    console.log(res);
+
+    res.forEach(function(i){
+        console.log(i)
+    })
+    console.log("What ItemId would you like to buy?")
 })
 var schema = {
     properties: {
